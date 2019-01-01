@@ -13,7 +13,7 @@ Do note that the gradients start and end points are well outside of the logo. Th
 ## Light logo
 
 Background color = ffffff
-Font color = ffffff
+Font color = 1c1c1c
 Gradient start = cc3ed7
 Gradient end = 00a8e6
 Outline color = 000000
