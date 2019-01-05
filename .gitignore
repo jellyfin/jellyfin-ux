@@ -1,0 +1,8 @@
+# Ignore macOS files
+.DS_Store
+
+#Ignore Windows files
+Thumbs.db
+
+# Archive for all iterations. (AI and PSD files)
+master
