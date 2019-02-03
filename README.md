@@ -7,5 +7,5 @@ UX elements for Jellyfin, including logos, fonts, and other elements shared acro
 
 ---
 <p align="center">
-Follows the branding guidelines as described in the [Jellyfin Documentation](https://jellyfin.readthedocs.io/en/latest/contributor-docs/branding-guide/).
+Follows the branding guidelines as described in the <a href="https://jellyfin.readthedocs.io/en/latest/contributor-docs/branding-guide/">Jellyfin Documentation</a>.
 </p>
