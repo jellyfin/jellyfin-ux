@@ -5,28 +5,17 @@
   - All copyright belongs to the Jellyfin contributors; a full list can
   - be found in the file CONTRIBUTORS.md
   - 
-  - This program is free software; you can redistribute it and/or
-  - modify it under the terms of the GNU General Public License
-  - as published by the Free Software Foundation; either version 2
-  - of the License, or (at your option) any later version.
-  - 
-  - This program is distributed in the hope that it will be useful,
-  - but WITHOUT ANY WARRANTY; without even the implied warranty of
-  - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  - GNU General Public License for more details.
-  - 
-  - You should have received a copy of the GNU General Public License
-  - along with this program; if not, write to the Free Software
-  - Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+  - This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+  - To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
 - ***** END LICENSE BLOCK ***** -->
-<svg id="icon-solid" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+<svg id="icon-solid-monochrome" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
     <defs>
         <linearGradient id="linear-gradient" x1="110.25" y1="213.3" x2="496.14" y2="436.09" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ddd"/>
             <stop offset="1" stop-color="#999"/>
         </linearGradient>
     </defs>
-    <title>icon-solid</title>
+    <title>icon-solid-monochrome</title>
     <rect id="solid-background" width="512" height="512" fill="#222"/>
     <g id="icon-solid">
         <path id="inner-shape" d="M256,201.62c-20.44,0-86.23,119.29-76.2,139.43s142.48,19.92,152.4,0S276.47,201.63,256,201.62Z" fill="url(#linear-gradient)"/>
