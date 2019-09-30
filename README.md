@@ -7,5 +7,5 @@ UX elements for Jellyfin, including logos, fonts, and other elements shared acro
 
 ---
 <p align="center">
-Please see the <a href="https://jellyfin.readthedocs.io/en/latest/contributor-docs/branding-guide/">branding guide</a> for more information on using these assets.
+Please see the <a href="https://jellyfin.org/docs/general/contributing/branding-guide.html">branding guide</a> for more information on using these assets.
 </p>
