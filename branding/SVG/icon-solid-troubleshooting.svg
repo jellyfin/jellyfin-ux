@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ***** BEGIN LICENSE BLOCK *****
+  - Part of the Jellyfin project (https://jellyfin.media)
+  - 
+  - All copyright belongs to the Jellyfin contributors; a full list can
+  - be found in the file CONTRIBUTORS.md
+  - 
+  - This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+  - To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+- ***** END LICENSE BLOCK ***** -->
+<svg id="icon-solid-troubleshooting" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+    <defs>
+        <linearGradient id="linear-gradient" x1="110.25" y1="213.3" x2="496.14" y2="436.09" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#aa5cc3"/>
+            <stop offset="1" stop-color="#00a4dc"/>
+        </linearGradient>
+    </defs>
+    <title>icon-solid-black</title>
+    <rect id="solid-background" width="512" height="512" fill="#000b25"/>
+    <g id="icon-solid">
+        <path id="outer-shape" d="m 232,400 h 48 v -48 h -48 v 48 M 256,16 A 240,240 0 0 0 16,256 240,240 0 0 0 256,496 240,240 0 0 0 496,256 240,240 0 0 0 256,16 m 0,432 C 150.16,448 64,361.84 64,256 64,150.16 150.16,64 256,64 c 105.84,0 192,86.16 192,192 0,105.84 -86.16,192 -192,192 m 0,-336 a 96,96 0 0 0 -96,96 h 48 a 48,48 0 0 1 48,-48 48,48 0 0 1 48,48 c 0,48 -72,42 -72,120 h 48 c 0,-54 72,-60 72,-120 a 96,96 0 0 0 -96,-96 z" fill="url(#linear-gradient)"/>
+    </g>
+</svg>
