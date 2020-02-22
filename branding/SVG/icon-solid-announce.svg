@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ***** BEGIN LICENSE BLOCK *****
+  - Part of the Jellyfin project (https://jellyfin.media)
+  - 
+  - All copyright belongs to the Jellyfin contributors; a full list can
+  - be found in the file CONTRIBUTORS.md
+  - 
+  - This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+  - To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+- ***** END LICENSE BLOCK ***** -->
+<svg id="icon-solid-announce" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+    <defs>
+        <linearGradient id="linear-gradient" x1="110.25" y1="213.3" x2="496.14" y2="436.09" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#aa5cc3"/>
+            <stop offset="1" stop-color="#00a4dc"/>
+        </linearGradient>
+    </defs>
+    <title>icon-solid-announce</title>
+    <rect id="solid-background" width="512" height="512" fill="#000b25"/>
+    <g id="icon-solid">
+        <path id="outer-shape" d="M 262.15385,145.23065 H 65.23056 a 49.230824,49.230824 0 0 0 -49.23082,49.23082 v 98.46165 a 49.230824,49.230824 0 0 0 49.23082,49.23082 h 24.61541 v 98.46165 a 24.615412,24.615412 0 0 0 24.61541,24.61541 h 49.23083 a 24.615412,24.615412 0 0 0 24.61541,-24.61541 v -98.46165 h 73.84623 l 123.07706,98.46165 V 46.769 l -123.07706,98.46165 m 73.84624,187.07713 -49.23082,-39.38466 H 65.23056 v -98.46165 h 221.53871 l 49.23082,-39.38466 v 177.23097 m 160.00017,-88.61549 c 0,42.09236 -23.63079,80.24625 -61.53852,98.46165 V 145.23065 c 37.66158,18.46156 61.53852,56.61544 61.53852,98.46164 z" fill="url(#linear-gradient)"/>
+    </g>
+</svg>
