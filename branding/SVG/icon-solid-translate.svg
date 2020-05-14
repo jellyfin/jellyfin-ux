@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ***** BEGIN LICENSE BLOCK *****
+  - Part of the Jellyfin project (https://jellyfin.media)
+  - 
+  - All copyright belongs to the Jellyfin contributors; a full list can
+  - be found in the file CONTRIBUTORS.md
+  - 
+  - This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+  - To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+- ***** END LICENSE BLOCK ***** -->
+<svg id="icon-solid-troubleshooting" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+    <defs>
+        <linearGradient id="linear-gradient" x1="110.25" y1="213.3" x2="496.14" y2="436.09" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#aa5cc3"/>
+            <stop offset="1" stop-color="#00a4dc"/>
+        </linearGradient>
+    </defs>
+    <title>icon-solid-black</title>
+    <rect id="solid-background" width="512" height="512" fill="#000b25"/>
+    <g id="icon-solid">
+        <path id="outer-shape" d="m360.64 304c1.92-15.84 3.36-31.68 3.36-48 0-16.32-1.44-32.16-3.36-48h81.12c3.84 15.36 6.24 31.44 6.24 48 0 16.56-2.4 32.64-6.24 48m-123.6 133.44c14.4-26.64 25.44-55.44 33.12-85.44h70.8c-23.04 39.6-59.76 70.32-103.92 85.44m-6-133.44h-112.32c-2.4-15.84-3.84-31.68-3.84-48 0-16.32 1.44-32.4 3.84-48h112.32c2.16 15.6 3.84 31.68 3.84 48 0 16.32-1.68 32.16-3.84 48m-56.16 143.04c-19.92-28.8-36-60.72-45.84-95.04h91.68c-9.84 34.32-25.92 66.24-45.84 95.04m-96-287.04h-70.08c22.8-39.84 59.76-70.56 103.68-85.44-14.4 26.64-25.2 55.44-33.6 85.44m-70.08 192h70.08c8.4 30 19.2 58.8 33.6 85.44-43.92-15.12-80.88-45.84-103.68-85.44m-19.68-48c-3.84-15.36-6.24-31.44-6.24-48 0-16.56 2.4-32.64 6.24-48h81.12c-1.92 15.84-3.36 31.68-3.36 48 0 16.32 1.44 32.16 3.36 48m104.64-239.28c19.92 28.8 36 60.96 45.84 95.28h-91.68c9.84-34.32 25.92-66.48 45.84-95.28m166.08 95.28h-70.8c-7.68-30-18.72-58.8-33.12-85.44 44.16 15.12 80.88 45.6 103.92 85.44m-166.08-144c-132.72 0-240 108-240 240a240 240 0 0 0 240 240 240 240 0 0 0 240-240 240 240 0 0 0-240-240z" fill="url(#linear-gradient)"/>
+    </g>
+</svg>
