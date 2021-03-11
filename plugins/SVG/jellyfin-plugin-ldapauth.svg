@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <rect
+       x="50.759791"
+       y="387.58649"
+       width="2.7020626"
+       height="357.88762"
+       id="rect1018" />
+    <linearGradient
+       id="linearGradient851">
+      <stop
+         style="stop-color:#2f2f2f;stop-opacity:1"
+         offset="0"
+         id="stop847" />
+      <stop
+         style="stop-color:#111111;stop-opacity:1"
+         offset="1"
+         id="stop849" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient851"
+       id="radialGradient853"
+       cx="125.25463"
+       cy="16.734682"
+       fx="125.25463"
+       fy="16.734682"
+       r="254"
+       gradientTransform="matrix(0,1.0647542,-1.7495183,0,154.53226,-61.444333)"
+       gradientUnits="userSpaceOnUse" />
+    <style
+       id="style914">.cls-1{fill:url(#linear-gradient);}</style>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <rect
+       style="opacity:0.98;fill:url(#radialGradient853);stroke-width:2.64583;fill-opacity:1"
+       id="rect845"
+       width="508"
+       height="285.75"
+       x="0"
+       y="2.1874998e-06" />
+    <g
+       id="g1025"
+       transform="translate(-42.664969,-257.76155)">
+      <path
+         d="m 181.15431,374.17822 a 12.772986,12.772986 0 0 1 12.77299,12.77299 12.772986,12.772986 0 0 1 -12.77299,12.77299 12.772986,12.772986 0 0 1 -12.77298,-12.77299 12.772986,12.772986 0 0 1 12.77298,-12.77299 m -25.54598,9.12357 c 2.04369,0 3.94138,0.54745 5.58363,1.53276 -0.54745,5.21867 0.98538,10.40085 4.12385,14.45172 -1.82472,3.50345 -5.47414,5.91207 -9.70748,5.91207 a 10.948274,10.948274 0 0 1 -10.94827,-10.94828 10.948274,10.948274 0 0 1 10.94827,-10.94827 m 51.09196,0 a 10.948274,10.948274 0 0 1 10.94827,10.94827 10.948274,10.948274 0 0 1 -10.94827,10.94828 c -4.23334,0 -7.88276,-2.40862 -9.70747,-5.91207 3.13851,-4.05087 4.67126,-9.23305 4.12384,-14.45172 1.64225,-0.98538 3.53995,-1.53276 5.58363,-1.53276 m -49.26724,37.4066 c 0,-7.5543 10.61982,-13.68533 23.72126,-13.68533 13.10144,0 23.72126,6.13103 23.72126,13.68533 v 6.3865 h -47.44252 v -6.3865 m -20.07184,6.3865 v -5.47414 c 0,-5.0727 6.89742,-9.34252 16.23994,-10.58334 -2.15316,2.48162 -3.46695,5.91207 -3.46695,9.67098 v 6.3865 h -12.77299 m 87.5862,0 h -12.77298 v -6.3865 c 0,-3.75891 -1.3138,-7.18936 -3.46696,-9.67098 9.34254,1.24083 16.23994,5.51064 16.23994,10.58334 z"
+         id="path1001"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:3.64942" />
+      <text
+         xml:space="preserve"
+         style="font-size:88.1944px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="227.89821"
+         y="432.25424"
+         id="text1014"><tspan
+           id="tspan1012"
+           x="227.89821"
+           y="432.25424"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:88.1944px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583">LDAP</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text1016"
+       style="font-family:'Noto Sans';font-size:10.58333341px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Noto Sans';white-space:pre;shape-inside:url(#rect1018);" />
+  </g>
+</svg>
