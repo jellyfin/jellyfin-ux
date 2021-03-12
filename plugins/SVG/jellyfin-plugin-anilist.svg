@@ -1,98 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="1920"
-   height="1080"
-   viewBox="0 0 507.99999 285.75001"
-   version="1.1"
-   id="svg8">
-  <defs
-     id="defs2">
-    <rect
-       x="50.759791"
-       y="387.58649"
-       width="2.7020626"
-       height="357.88762"
-       id="rect1018" />
-    <linearGradient
-       id="linearGradient851">
-      <stop
-         style="stop-color:#26294b;stop-opacity:1"
-         offset="0"
-         id="stop847" />
-      <stop
-         style="stop-color:#2b2d42;stop-opacity:1"
-         offset="1"
-         id="stop849" />
-    </linearGradient>
-    <radialGradient
-       xlink:href="#linearGradient851"
-       id="radialGradient853"
-       cx="125.25463"
-       cy="16.734682"
-       fx="125.25463"
-       fy="16.734682"
-       r="254"
-       gradientTransform="matrix(0,1.0647542,-1.7495183,0,154.53226,-61.444333)"
-       gradientUnits="userSpaceOnUse" />
-    <style
-       id="style914">.cls-1{fill:url(#linear-gradient);}</style>
-    <style
-       id="style1097">
-      .cls-1 {
-        fill: #02a9ff;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fefefe;
-      }
-    </style>
-  </defs>
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1">
-    <rect
-       style="opacity:0.98;fill:url(#radialGradient853);stroke-width:2.64583;fill-opacity:1"
-       id="rect845"
-       width="508"
-       height="285.75"
-       x="0"
-       y="2.1874998e-06" />
-    <text
-       xml:space="preserve"
-       id="text1016"
-       style="font-family:'Noto Sans';font-size:10.58333341px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Noto Sans';white-space:pre;shape-inside:url(#rect1018);" />
-    <g
-       id="g1105"
-       transform="matrix(1.1609171,0,0,1.1609171,153.80299,42.953125)">
-      <path
-         d="M 111.322,111.157 V 41.029 c 0,-4.019 -2.217,-6.237 -6.236,-6.237 H 91.365 c -4.019,0 -6.237,2.218 -6.237,6.237 0,0 0,15.308 0,33.304 0,0.938 9.037,5.293 9.273,6.214 6.885,26.902 1.496,48.433 -5.031,49.438 10.672,0.528 11.846,5.659 3.897,2.153 1.216,-14.354 5.961,-14.326 19.602,-0.528 0.117,0.119 2.797,5.741 2.964,5.741 15.337,0 32.217,0 32.217,0 4.019,0 6.236,-2.217 6.236,-6.236 v -13.721 c 0,-4.019 -2.217,-6.237 -6.236,-6.237 z"
-         class="cls-1"
-         id="path1101" />
-      <path
-         d="M 54.365,34.792 18.331,137.351 h 27.996 l 6.098,-17.74 h 30.49 l 5.96,17.74 h 27.857 L 80.836,34.792 Z m 4.435,62.09 8.731,-28.412 9.563,28.412 z"
-         class="cls-2"
-         id="path1103" />
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 508 285.75">
+    <defs>
+        <radialGradient xlink:href="#a" id="b" cx="125.255" cy="16.735" fx="125.255" fy="16.735" r="254" gradientTransform="matrix(0 1.06475 -1.74952 0 154.532 -61.444)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop style="stop-color:#26294b;stop-opacity:1" offset="0"/>
+            <stop style="stop-color:#2b2d42;stop-opacity:1" offset="1"/>
+        </linearGradient>
+    </defs>
+    <path style="opacity:.98;fill:url(#b);stroke-width:2.64583;fill-opacity:1" d="M0 0h508v285.75H0z"/>
+    <path d="M111.322 111.157V41.029c0-4.019-2.217-6.237-6.236-6.237H91.365c-4.019 0-6.237 2.218-6.237 6.237v33.304c0 .938 9.037 5.293 9.273 6.214 6.885 26.902 1.496 48.433-5.031 49.438 10.672.528 11.846 5.659 3.897 2.153 1.216-14.354 5.961-14.326 19.602-.528.117.119 2.797 5.741 2.964 5.741h32.217c4.019 0 6.236-2.217 6.236-6.236v-13.721c0-4.019-2.217-6.237-6.236-6.237z" style="fill-rule:evenodd;fill:#02a9ff" transform="translate(153.803 42.953) scale(1.16092)"/>
+    <path d="M54.365 34.792 18.331 137.351h27.996l6.098-17.74h30.49l5.96 17.74h27.857L80.836 34.792zm4.435 62.09 8.731-28.412 9.563 28.412z" style="fill:#fefefe;fill-rule:evenodd" transform="translate(153.803 42.953) scale(1.16092)"/>
 </svg>

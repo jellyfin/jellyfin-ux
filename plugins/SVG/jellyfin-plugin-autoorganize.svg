@@ -1,94 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="1920"
-   height="1080"
-   viewBox="0 0 507.99999 285.75001"
-   version="1.1"
-   id="svg8">
-  <defs
-     id="defs2">
-    <rect
-       x="50.759791"
-       y="387.58649"
-       width="2.7020626"
-       height="357.88762"
-       id="rect1018" />
-    <linearGradient
-       id="linearGradient851">
-      <stop
-         style="stop-color:#2f2f2f;stop-opacity:1"
-         offset="0"
-         id="stop847" />
-      <stop
-         style="stop-color:#111111;stop-opacity:1"
-         offset="1"
-         id="stop849" />
-    </linearGradient>
-    <radialGradient
-       xlink:href="#linearGradient851"
-       id="radialGradient853"
-       cx="125.25463"
-       cy="16.734682"
-       fx="125.25463"
-       fy="16.734682"
-       r="254"
-       gradientTransform="matrix(0,1.0647542,-1.7495183,0,154.53226,-61.444333)"
-       gradientUnits="userSpaceOnUse" />
-    <style
-       id="style914">.cls-1{fill:url(#linear-gradient);}</style>
-  </defs>
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1">
-    <rect
-       style="opacity:0.98;fill:url(#radialGradient853);stroke-width:2.64583;fill-opacity:1"
-       id="rect845"
-       width="508"
-       height="285.75"
-       x="0"
-       y="2.1874998e-06" />
-    <text
-       xml:space="preserve"
-       id="text1016"
-       style="font-family:'Noto Sans';font-size:10.58333341px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Noto Sans';white-space:pre;shape-inside:url(#rect1018);" />
-    <g
-       id="g982"
-       transform="translate(-15.15951,-13.626054)">
-      <text
-         xml:space="preserve"
-         style="font-size:44.0972px;line-height:0.85;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="212.79585"
-         y="151.11015"
-         id="text972"><tspan
-           id="tspan970"
-           x="212.79585"
-           y="151.11015"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:44.0972px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583">Auto</tspan><tspan
-           x="212.79585"
-           y="188.59277"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:44.0972px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-           id="tspan1059">Organize</tspan></text>
-      <path
-         d="m 125.63091,113.82601 h 26.45834 v 17.63891 h -26.45834 v -17.63891 m 52.91666,30.86807 h 26.45834 v 17.63889 h -26.45834 v -17.63889 m 0,30.86805 h 26.45834 v 17.6389 h -26.45834 v -17.6389 m -8.81943,-17.63887 H 143.2698 v 22.04859 h 26.45834 v 8.81946 h -26.45834 -8.81944 v -48.50696 h 8.81944 v 8.81944 h 26.45834 z"
-         id="path1048"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:4.40972" />
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 508 285.75">
+    <defs>
+        <radialGradient xlink:href="#a" id="b" cx="125.255" cy="16.735" fx="125.255" fy="16.735" r="254" gradientTransform="matrix(0 1.06475 -1.74952 0 154.532 -61.444)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop style="stop-color:#2f2f2f;stop-opacity:1" offset="0"/>
+            <stop style="stop-color:#111;stop-opacity:1" offset="1"/>
+        </linearGradient>
+        <style/>
+    </defs>
+    <path style="opacity:.98;fill:url(#b);stroke-width:2.64583;fill-opacity:1" d="M0 0h508v285.75H0z"/>
+    <text xml:space="preserve" style="font-size:44.0972px;line-height:.85;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0;word-spacing:0;stroke-width:.264583" x="212.796" y="151.11" transform="translate(-15.16 -13.626)"><tspan x="212.796" y="151.11" style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:44.0972px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';fill:#fff;fill-opacity:1;stroke-width:.264583">Auto</tspan><tspan x="212.796" y="188.593" style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:44.0972px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';fill:#fff;fill-opacity:1;stroke-width:.264583">Organize</tspan></text>
+    <path d="M125.63 113.826h26.46v17.639h-26.46v-17.639m52.918 30.868h26.458v17.639h-26.458v-17.639m0 30.868h26.458v17.639h-26.458v-17.639m-8.82-17.639H143.27v22.049h26.458v8.82H134.45v-48.508h8.82v8.82h26.458z" style="fill:#fff;fill-opacity:1;stroke-width:4.40972" transform="translate(-15.16 -13.626)"/>
 </svg>
