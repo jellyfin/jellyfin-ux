@@ -5,13 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="icon-solid-vue"
    viewBox="0 0 512 512"
-   version="1.1"
-   sodipodi:docname="icon-solid-vue.svg"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+   version="1.1">
   <metadata
      id="metadata44">
     <rdf:RDF>
@@ -20,29 +16,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>icon-solid-vue</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     id="namedview42"
-     showgrid="false"
-     inkscape:zoom="1.6347656"
-     inkscape:cx="256"
-     inkscape:cy="256"
-     inkscape:window-x="726"
-     inkscape:window-y="1432"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="icon-solid-vue" />
   <defs
      id="defs33">
     <linearGradient
