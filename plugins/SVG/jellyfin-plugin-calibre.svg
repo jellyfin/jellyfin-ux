@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 508 285.75">
+    <defs>
+        <radialGradient xlink:href="#a" id="b" cx="125.255" cy="16.735" fx="125.255" fy="16.735" r="254" gradientTransform="matrix(0 1.06475 -1.74952 0 154.532 -61.444)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop style="stop-color:#413827;stop-opacity:1" offset="0"/>
+            <stop style="stop-color:#39322b;stop-opacity:1" offset="1"/>
+        </linearGradient>
+        <style/>
+    </defs>
+    <path style="opacity:.98;fill:url(#b);stroke-width:2.64583;fill-opacity:1" d="M0 0h508v285.75H0z"/>
+    <path d="M157.063 319.758v88.195H174.7v-88.195h-17.638m17.638 11.76 23.519 76.435 17.639-5.88-23.519-76.435-17.639 5.88m-41.157 0v76.435h17.639v-76.436h-17.639m-11.76 82.315v11.76h105.834v-11.76z" style="fill:#f6f3e9;fill-opacity:1;stroke-width:5.87963" transform="translate(-51.393 -229.8)"/>
+    <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:70.5556px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Bold';letter-spacing:0;word-spacing:0;fill:#f6f3e9;fill-opacity:1;stroke-width:.264583" x="229.922" y="399.486" transform="translate(-51.393 -229.8)"><tspan x="229.922" y="399.486" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:70.5556px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Bold';fill:#f6f3e9;fill-opacity:1;stroke-width:.264583">Calibre</tspan></text>
+</svg>

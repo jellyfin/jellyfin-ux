@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 508 285.75">
+    <defs>
+        <radialGradient xlink:href="#a" id="b" cx="125.255" cy="16.735" fx="125.255" fy="16.735" r="254" gradientTransform="matrix(0 1.06475 -1.74952 0 154.532 -61.444)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop style="stop-color:#2f2f2f;stop-opacity:1" offset="0"/>
+            <stop style="stop-color:#111;stop-opacity:1" offset="1"/>
+        </linearGradient>
+        <style/>
+    </defs>
+    <path style="opacity:.98;fill:url(#b);stroke-width:2.64583;fill-opacity:1" d="M0 0h508v285.75H0z"/>
+    <text xml:space="preserve" style="font-size:44.0972px;line-height:.85;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0;word-spacing:0;stroke-width:.264583" x="212.796" y="151.11" transform="translate(-15.16 -13.626)"><tspan x="212.796" y="151.11" style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:44.0972px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';fill:#fff;fill-opacity:1;stroke-width:.264583">Auto</tspan><tspan x="212.796" y="188.593" style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:44.0972px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';fill:#fff;fill-opacity:1;stroke-width:.264583">Organize</tspan></text>
+    <path d="M125.63 113.826h26.46v17.639h-26.46v-17.639m52.918 30.868h26.458v17.639h-26.458v-17.639m0 30.868h26.458v17.639h-26.458v-17.639m-8.82-17.639H143.27v22.049h26.458v8.82H134.45v-48.508h8.82v8.82h26.458z" style="fill:#fff;fill-opacity:1;stroke-width:4.40972" transform="translate(-15.16 -13.626)"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 508 285.75">
+    <defs>
+        <radialGradient xlink:href="#a" id="b" cx="125.255" cy="16.735" fx="125.255" fy="16.735" r="254" gradientTransform="matrix(0 1.06475 -1.74952 0 154.532 -61.444)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop style="stop-color:#2f2f2f;stop-opacity:1" offset="0"/>
+            <stop style="stop-color:#111;stop-opacity:1" offset="1"/>
+        </linearGradient>
+        <style/>
+    </defs>
+    <path style="opacity:.98;fill:url(#b);stroke-width:2.64583;fill-opacity:1" d="M0 0h508v285.75H0z"/>
+    <path d="M181.154 374.178a12.773 12.773 0 0 1 12.773 12.773 12.773 12.773 0 0 1-12.773 12.773 12.773 12.773 0 0 1-12.773-12.773 12.773 12.773 0 0 1 12.773-12.773m-25.546 9.124c2.044 0 3.942.547 5.584 1.533a20.204 20.204 0 0 0 4.124 14.451c-1.825 3.504-5.474 5.912-9.708 5.912a10.948 10.948 0 0 1-10.948-10.948 10.948 10.948 0 0 1 10.948-10.948m51.092 0a10.948 10.948 0 0 1 10.949 10.948 10.948 10.948 0 0 1-10.949 10.948c-4.233 0-7.882-2.408-9.707-5.912a20.204 20.204 0 0 0 4.124-14.451 10.773 10.773 0 0 1 5.583-1.533m-49.267 37.406c0-7.554 10.62-13.685 23.721-13.685 13.102 0 23.722 6.131 23.722 13.685v6.387h-47.443v-6.387m-20.072 6.387v-5.474c0-5.073 6.898-9.343 16.24-10.584-2.153 2.482-3.467 5.912-3.467 9.671v6.387h-12.773m87.586 0h-12.773v-6.387c0-3.759-1.313-7.189-3.467-9.67 9.343 1.24 16.24 5.51 16.24 10.583z" style="fill:#fff;fill-opacity:1;stroke-width:3.64942" transform="translate(-42.665 -257.762)"/>
+    <text xml:space="preserve" style="font-size:88.1944px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0;word-spacing:0;stroke-width:.264583" x="227.898" y="432.254" transform="translate(-42.665 -257.762)"><tspan x="227.898" y="432.254" style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:88.1944px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';fill:#fff;fill-opacity:1;stroke-width:.264583">LDAP</tspan></text>
+</svg>

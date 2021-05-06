@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 508 285.75">
+    <defs>
+        <radialGradient xlink:href="#a" id="b" cx="125.255" cy="16.735" fx="125.255" fy="16.735" r="254" gradientTransform="matrix(0 1.06475 -1.74952 0 154.532 -61.444)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop style="stop-color:#2f2f2f;stop-opacity:1" offset="0"/>
+            <stop style="stop-color:#111;stop-opacity:1" offset="1"/>
+        </linearGradient>
+        <style/>
+    </defs>
+    <path style="opacity:.98;fill:url(#b);stroke-width:2.64583;fill-opacity:1" d="M0 0h508v285.75H0z"/>
+    <path d="M678.102 43.94v22.253l17.484-11.126z" style="fill:#fff;fill-opacity:1;stroke-width:1.58951" transform="translate(-1104.365 11.717) scale(1.86186)"/>
+    <path d="M688.87 91.221h-38.99v-38.99h16.71V46.66h-16.71c-3.064 0-5.57 2.507-5.57 5.57v38.991c0 3.064 2.506 5.57 5.57 5.57h38.991c3.064 0 5.57-2.506 5.57-5.57v-16.71h-5.57v16.71m-11.14-16.71v11.14h5.57v-11.14h-5.57m-11.14 11.14h5.57v-22.28h-5.57v22.28m-5.57 0v-16.71h-5.571v16.71z" style="fill:#fff;fill-opacity:1;stroke-width:2.78509" transform="translate(-1104.365 11.717) scale(1.86186)"/>
+    <text xml:space="preserve" style="font-style:italic;font-weight:300;font-stretch:extra-condensed;font-size:35.2778px;line-height:.95;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light Italic Extra-Condensed';letter-spacing:0;word-spacing:0;stroke-width:.264583" x="208.09" y="124.734" transform="translate(-63.241 -14.456) scale(1.23972)"><tspan x="208.09" y="124.734" style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:35.2778px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';fill:#fff;fill-opacity:1;stroke-width:.264583">Playback</tspan><tspan x="208.09" y="158.248" style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:35.2778px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';fill:#fff;fill-opacity:1;stroke-width:.264583">Reporting</tspan></text>
+</svg>

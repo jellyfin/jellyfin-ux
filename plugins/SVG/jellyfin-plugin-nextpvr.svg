@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 508 285.75">
+    <defs>
+        <radialGradient xlink:href="#a" id="b" cx="125.255" cy="16.735" fx="125.255" fy="16.735" r="254" gradientTransform="matrix(0 1.06475 -1.74952 0 154.532 -61.444)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop style="stop-color:#00a3dd;stop-opacity:1" offset="0"/>
+            <stop style="stop-color:#006cc3;stop-opacity:1" offset="1"/>
+        </linearGradient>
+        <style/>
+    </defs>
+    <path style="opacity:.98;fill:url(#b);stroke-width:2.64583;fill-opacity:1" d="M0 0h508v285.75H0z"/>
+    <text xml:space="preserve" style="font-style:italic;font-weight:300;font-stretch:extra-condensed;font-size:71.0723px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light Italic Extra-Condensed';letter-spacing:0;word-spacing:0;stroke-width:.26652" x="88.864" y="168.243"><tspan x="88.864" y="168.243" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:71.0723px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#fff;fill-opacity:1;stroke-width:.26652">NEXTPVR</tspan></text>
+</svg>

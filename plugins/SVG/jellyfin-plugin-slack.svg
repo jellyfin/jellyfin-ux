@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 508 285.75" version="1.1" id="svg8">
+    <defs id="defs2">
+        <linearGradient id="linearGradient851">
+            <stop style="stop-color:#5a195a;stop-opacity:1" offset="0" id="stop847"/>
+            <stop style="stop-color:#411643;stop-opacity:1" offset="1" id="stop849"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient" y1="40.76" x2="190.24" y2="40.76" gradientUnits="userSpaceOnUse" gradientTransform="translate(95.25 74.882) scale(1.66894)">
+            <stop offset="0" stop-color="#90cea1" id="stop916"/>
+            <stop offset=".56" stop-color="#3cbec9" id="stop918"/>
+            <stop offset="1" stop-color="#00b3e5" id="stop920"/>
+        </linearGradient>
+        <linearGradient x1="83.281" y1="75.661" x2="239.54" y2="238.864" id="c" gradientTransform="matrix(9.66096 0 0 9.87142 -860.912 -1723.976)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#4CB36B" offset="0%" id="stop3483"/>
+            <stop stop-color="#3EA16F" offset="100%" id="stop3485"/>
+        </linearGradient>
+        <radialGradient xlink:href="#linearGradient851" id="radialGradient853" cx="125.255" cy="16.735" fx="125.255" fy="16.735" r="254" gradientTransform="matrix(0 1.06475 -1.74952 0 154.532 -61.444)" gradientUnits="userSpaceOnUse"/>
+        <style id="style914"/>
+        <path id="a" d="M256 128c0 70.692-57.308 128-128 128C57.308 256 0 198.692 0 128 0 57.308 57.308 0 128 0c70.692 0 128 57.308 128 128"/>
+    </defs>
+    <g id="layer1">
+        <path style="opacity:.98;fill:url(#radialGradient853);stroke-width:2.64583;fill-opacity:1" id="rect845" d="M0 0h508v285.75H0z"/>
+        <g id="g1084" transform="translate(26.901 -13.665) scale(.54047)">
+            <g id="g1061">
+                <path d="M705.784 239.297h-2.541v6.49h-.825v-6.49h-2.54v-.792h5.906z" id="path1057"/>
+                <path d="M713.914 238.505v7.282h-.825v-6.028l-2.695 3.465-2.738-3.465v6.028h-.825v-7.282h.957l2.606 3.454 2.563-3.454z" id="path1059"/>
+            </g>
+            <g id="g3717" transform="translate(65.274 71.73) scale(.57992)">
+                <g id="g3691">
+                    <path class="st0" d="m429.51 449.44 12.58-29.34c13.77 10.18 31.74 15.57 49.7 15.57 13.17 0 21.56-5.09 21.56-12.87-.3-21.56-79.34-4.79-79.94-58.98-.3-27.54 24.25-48.8 58.99-48.8 20.66 0 41.32 5.09 55.99 16.77l-11.75 29.97c-13.5-8.66-30.17-14.7-46.03-14.7-10.78 0-17.97 5.09-17.97 11.68.3 21.26 79.94 9.58 80.84 61.38 0 28.14-23.96 47.9-58.09 47.9-25.16-.02-48.21-6.01-65.88-18.58" id="path3681"/>
+                    <path class="st0" d="M915.13 409.47c-6.27 11.08-18.16 18.56-31.8 18.56-20.17 0-36.53-16.35-36.53-36.53s16.35-36.53 36.53-36.53c13.64 0 25.53 7.48 31.8 18.56l34.96-19.37C937 330.8 912.01 315 883.33 315c-42.25 0-76.5 34.25-76.5 76.5s34.25 76.5 76.5 76.5c28.69 0 53.67-15.8 66.76-39.16z" id="path3683"/>
+                    <path class="st0" id="rect3685" d="M571.09 251.32h43.72V465h-43.72z"/>
+                    <path class="st0" id="polygon3687" d="m1052.62 388.95 61.08-70.96h-53.48l-49.4 58.99V251.32H967.1v213.69h43.72v-64.03l51.8 64.03h55.87z"/>
+                    <path class="st0" d="M744.42 409.76c-6.29 10.48-19.46 18.26-34.13 18.26-20.17 0-36.53-16.35-36.53-36.53s16.36-36.53 36.53-36.53c14.67 0 27.84 8.08 34.13 18.86zm0-91.77v17.37C737.23 323.38 719.57 315 701 315c-38.33 0-68.57 33.83-68.57 76.35 0 42.52 30.24 76.65 68.57 76.65 18.56 0 36.23-8.38 43.41-20.36V465h43.71V317.99z" id="path3689"/>
+                </g>
+                <g id="g3697">
+                    <path class="st1" d="M159.51 409.5c0 14.91-12.09 27-27 27s-27-12.09-27-27 12.09-27 27-27h27z" id="path3693"/>
+                    <path class="st1" d="M173.01 409.5c0-14.91 12.09-27 27-27s27 12.09 27 27V477c0 14.91-12.09 27-27 27s-27-12.09-27-27z" id="path3695"/>
+                </g>
+                <g id="g3703">
+                    <path class="st2" d="M200.01 301.5c-14.91 0-27-12.09-27-27s12.09-27 27-27 27 12.09 27 27v27z" id="path3699"/>
+                    <path class="st2" d="M200.01 315c14.91 0 27 12.09 27 27s-12.09 27-27 27h-67.5c-14.91 0-27-12.09-27-27s12.09-27 27-27z" id="path3701"/>
+                </g>
+                <g id="g3709">
+                    <path class="st3" d="M308.01 342c0-14.91 12.09-27 27-27s27 12.09 27 27-12.09 27-27 27h-27z" id="path3705"/>
+                    <path class="st3" d="M294.51 342c0 14.91-12.09 27-27 27s-27-12.09-27-27v-67.5c0-14.91 12.09-27 27-27s27 12.09 27 27z" id="path3707"/>
+                </g>
+                <g id="g3715">
+                    <path class="st4" d="M267.51 450c14.91 0 27 12.09 27 27s-12.09 27-27 27-27-12.09-27-27v-27z" id="path3711"/>
+                    <path class="st4" d="M267.51 436.5c-14.91 0-27-12.09-27-27s12.09-27 27-27h67.5c14.91 0 27 12.09 27 27s-12.09 27-27 27z" id="path3713"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <style type="text/css" id="style3679">
+        .st0{fill:#fff}.st1{fill:#e01e5a}.st2{fill:#36c5f0}.st3{fill:#2eb67d}.st4{fill:#ecb22e}
+    </style>
+</svg>

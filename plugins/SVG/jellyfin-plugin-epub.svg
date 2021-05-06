@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 508 285.75">
+    <defs>
+        <radialGradient xlink:href="#a" id="b" cx="125.255" cy="16.735" fx="125.255" fy="16.735" r="254" gradientTransform="matrix(0 1.06475 -1.74952 0 154.532 -61.444)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop style="stop-color:#2f2f2f;stop-opacity:1" offset="0"/>
+            <stop style="stop-color:#111;stop-opacity:1" offset="1"/>
+        </linearGradient>
+        <style/>
+    </defs>
+    <path style="opacity:.98;fill:url(#b);stroke-width:2.64583;fill-opacity:1" d="M0 0h508v285.75H0z"/>
+    <path d="m183.503 87.197-19.843 17.86v43.656l19.843-17.86V87.197m-49.61 11.907c-7.738 0-16.073 1.587-21.827 5.953v58.182c0 .992.991 1.984 1.984 1.984.397 0 .595-.278.991-.278 5.358-2.58 13.097-4.326 18.852-4.326 7.74 0 16.073 1.588 21.828 5.953 5.358-3.373 15.082-5.953 21.828-5.953 6.549 0 13.296 1.23 18.852 4.207.397.198.595.119.991.119.992 0 1.985-.993 1.985-1.985v-57.903c-2.381-1.786-4.961-2.977-7.938-3.97v53.579c-4.365-1.389-9.128-1.984-13.89-1.984-6.747 0-16.47 2.58-21.829 5.953v-53.578c-5.754-4.366-14.089-5.953-21.828-5.953z" style="fill:#fff;fill-opacity:1;stroke-width:3.96875" transform="translate(5.615 6.994)"/>
+    <text xml:space="preserve" style="font-size:70.5556px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0;word-spacing:0;stroke-width:.264583" x="203.8" y="160.716" transform="translate(5.615 6.994)"><tspan x="203.8" y="160.716" style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:70.5556px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';fill:#fff;fill-opacity:1;stroke-width:.264583">EPUB</tspan></text>
+</svg>

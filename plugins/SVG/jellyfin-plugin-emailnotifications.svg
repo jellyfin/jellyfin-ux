@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 508 285.75">
+    <defs>
+        <radialGradient xlink:href="#a" id="b" cx="125.255" cy="16.735" fx="125.255" fy="16.735" r="254" gradientTransform="matrix(0 1.06475 -1.74952 0 154.532 -61.444)" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="a">
+            <stop style="stop-color:#2f2f2f;stop-opacity:1" offset="0"/>
+            <stop style="stop-color:#111;stop-opacity:1" offset="1"/>
+        </linearGradient>
+        <style/>
+    </defs>
+    <path style="opacity:.98;fill:url(#b);stroke-width:2.64583;fill-opacity:1" d="M0 0h508v285.75H0z"/>
+    <text xml:space="preserve" style="font-size:35.2778px;line-height:.95;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0;word-spacing:0;stroke-width:.264583" x="230.946" y="127.784" transform="translate(-51.612 5.866)"><tspan x="230.946" y="127.784" style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:35.2778px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';fill:#fff;fill-opacity:1;stroke-width:.264583">Email</tspan><tspan x="230.946" y="161.298" style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:35.2778px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';fill:#fff;fill-opacity:1;stroke-width:.264583">Notifications</tspan></text>
+    <path d="M191.84 150.9h15.876v-11.907l19.844 17.86-19.844 17.86v-11.907H191.84V150.9m27.781-51.594h-63.5a7.937 7.937 0 0 0-7.937 7.937v47.625a7.937 7.937 0 0 0 7.937 7.938h29.17a23.019 23.019 0 0 1-1.389-7.938 23.812 23.812 0 0 1 43.657-13.136v-34.489a7.937 7.937 0 0 0-7.938-7.937m0 15.875-31.75 19.844-31.75-19.844v-7.938l31.75 19.844 31.75-19.844z" style="fill:#fff;fill-opacity:1;stroke-width:3.96874" transform="translate(-51.612 5.866)"/>
+</svg>
