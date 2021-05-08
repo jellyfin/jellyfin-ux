@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ***** BEGIN LICENSE BLOCK *****
+  - Part of the Jellyfin project (https://jellyfin.media)
+  - 
+  - All copyright belongs to the Jellyfin contributors; a full list can
+  - be found in the file CONTRIBUTORS.md
+  - 
+  - This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+  - To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+- ***** END LICENSE BLOCK ***** -->
+<svg id="icon-solid-black" version="1.1" viewBox="0 0 512 423" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient id="linear-gradient" x1="110.25" x2="496.14" y1="213.3" y2="436.09" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#aa5cc3" offset="0"/>
+            <stop stop-color="#00a4dc" offset="1"/>
+        </linearGradient>
+        <linearGradient id="linearGradient20" x1="110.25" x2="496.14" y1="213.3" y2="436.09" gradientUnits="userSpaceOnUse" xlink:href="#linear-gradient"/>
+    </defs>
+    <title>icon-solid-black</title>
+    <rect id="solid-background" width="512" height="423" fill="#000b25"/>
+    <g id="icon-solid" transform="matrix(.6543 0 0 .6543 88.499 44.002)" fill="url(#linearGradient20)">
+        <path id="inner-shape" d="m256 201.62c-20.44 0-86.23 119.29-76.2 139.43s142.48 19.92 152.4 0-55.73-139.42-76.2-139.43z"/>
+        <path id="outer-shape" d="m256 23.3c-61.56 0-259.82 359.43-229.59 420.13s429.34 60 459.24 0-168.03-420.13-229.65-420.13zm150.51 367.46c-19.59 39.33-281.08 39.77-300.89 0s110.09-275.28 150.44-275.28 170.04 235.94 150.45 275.28z"/>
+    </g>
+</svg>
