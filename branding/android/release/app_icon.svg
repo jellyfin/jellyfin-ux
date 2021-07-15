@@ -1,0 +1,12 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<linearGradient id="icon_gradient" x1="110.25" x2="496.14" y1="213.3" y2="436.09" gradientTransform="matrix(1.4359 0 0 1.4359 1694.5 -116.82)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#AA5CC3" offset="0" />
+			<stop stop-color="#00A4DC" offset="1" />
+		</linearGradient>
+	</defs>
+	<rect id="background" width="256" height="256" fill="#000B25" />
+	<g transform="matrix(.26458 0 0 .26458 -419.63 61.653)">
+		<path id="icon" d="m2069.8-83.36c-88.435 0-373.11 516.09-329.7 603.25s616.48 86.152 659.41 0c42.932-86.152-241.28-603.25-329.7-603.25zm0.042 132.36c57.937 0 244.16 338.78 216.03 395.27-28.129 56.473-403.59 57.104-432.05 0s158.09-395.27 216.03-395.27zm-0.042 123.68c-29.349 0-123.83 171.28-109.41 200.2s204.58 28.602 218.83 0-80.063-200.19-109.41-200.2z" fill="url(#icon_gradient)" />
+	</g>
+</svg>
