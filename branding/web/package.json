@@ -1,0 +1,12 @@
+{
+  "name": "@jellyfin/ux-web",
+  "description": "UX resources for the Jellyfin Web client.",
+  "version": "1.0.0",
+  "license": "CC-BY-SA-4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellyfin/jellyfin-ux.git",
+    "directory": "branding/web"
+  },
+  "homepage": "https://github.com/jellyfin/jellyfin-ux/tree/master/branding/web#readme"
+}
