@@ -23,6 +23,7 @@ jobs:
           node-version: 20
           check-latest: true
           cache: npm
+          cache-dependency-path: ./branding/web
           registry-url: https://registry.npmjs.org
 
       - name: Install Node.js dependencies
