@@ -1,0 +1,35 @@
+name: Publish @jellyfin/ux-ios
+
+on:
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+    if: ${{ github.repository == 'jellyfin/jellyfin-ux' }}
+    defaults:
+        run:
+            working-directory: ./branding/ios
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: 20
+          check-latest: true
+          cache: npm
+          cache-dependency-path: ./branding/ios
+          registry-url: https://registry.npmjs.org
+
+      - name: Install Node.js dependencies
+        run: npm ci --no-audit
+
+      - name: Publish the SDK to npm
+        run: npm publish --provenance
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}

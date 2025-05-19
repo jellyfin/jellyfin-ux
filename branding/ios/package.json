@@ -1,0 +1,12 @@
+{
+  "name": "@jellyfin/ux-ios",
+  "description": "UX resources for the Jellyfin iOS client.",
+  "version": "1.0.0",
+  "license": "CC-BY-SA-4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellyfin/jellyfin-ux.git",
+    "directory": "branding/ios"
+  },
+  "homepage": "https://github.com/jellyfin/jellyfin-ux/tree/master/branding/ios#readme"
+}
