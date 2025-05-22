@@ -1,28 +1,27 @@
-<h1>Jellyfin Design</h1>
+# Jellyfin Design
 
-<p>
-This repository includes design elements that are shared across all <a href="https://jellyfin.org">Jellyfin projects</a>.
-</p>
+This repository includes design elements that are shared across all [Jellyfin projects](https://jellyfin.org).
 
-<h3>Logos</h3>
+### Logos
 
-[_]
+![](/logos/)
+![](/logos/)
+![](/logos/)
+![](/logos/)
 
-<h3>Fonts</h3>
+### Fonts
 
-<a href="https://github.com/erikdkennedy/figtree">Figtree</a>
+[Figtree](https://github.com/erikdkennedy/figtree)
 
-<a href="https://github.com/googlefonts/dm-fonts">DM Serif</a>
+[DM Serif](https://github.com/googlefonts/dm-fonts)
 
-<a href="https://github.com/adobe-fonts/source-serif">Source Serif</a>
+[Source Serif](https://github.com/adobe-fonts/source-serif)
 
-<a href="https://github.com/googlefonts/dm-mono">DM Mono</a>
+[DM Mono](https://github.com/googlefonts/dm-mono)
 
-<h3>Icons</h3>
+### Icons
 
-<a href="https://github.com/Richard9394/MingCute">MingCute</a>
+[MingCute](https://github.com/Richard9394/MingCute)
 
 ---
-<p>
-Please consult our <a href="https://docs.jellyfin.org/general/contributing/branding.html">branding guide</a> on using these assets.
-</p>
+Please consult our [branding guide](https://docs.jellyfin.org/general/contributing/branding.html) on using these assets.
