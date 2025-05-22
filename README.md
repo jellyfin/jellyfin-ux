@@ -1,23 +1,27 @@
-<h1 family="Figtree">Jellyfin Design</h1>
+<h1>Jellyfin Design</h1>
 <h4>Part of the <a href="https://jellyfin.org">Jellyfin Project</a></h3>
 
 <p>
 This repository includes design elements that are shared across all Jellyfin projects.
 </p>
 
-<h4>Logos</h4>
+<h3>Logos</h3>
 
-<h4>Fonts</h4>
-- <a href="https://github.com/erikdkennedy/figtree">Figtree</a>
+[_]
 
-- <a href="https://github.com/googlefonts/dm-fonts">DM Serif</a>
+<h3>Fonts</h3>
 
-- <a href="https://github.com/adobe-fonts/source-serif">Source Serif</a>
+<a href="https://github.com/erikdkennedy/figtree">Figtree</a>
 
-- <a href="https://github.com/googlefonts/dm-mono">DM Mono</a>
+<a href="https://github.com/googlefonts/dm-fonts">DM Serif</a>
 
-<h4>Icons</h4>
-- <a href="https://github.com/Richard9394/MingCute">MingCute</a>
+<a href="https://github.com/adobe-fonts/source-serif">Source Serif</a>
+
+<a href="https://github.com/googlefonts/dm-mono">DM Mono</a>
+
+<h3>Icons</h3>
+
+<a href="https://github.com/Richard9394/MingCute">MingCute</a>
 
 ---
 <p>
