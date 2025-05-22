@@ -9,7 +9,7 @@ This repository includes design elements that are shared across all Jellyfin pro
 
 <h4>Fonts</h4>
 <a href="https://github.com/erikdkennedy/figtree">Figtree</a>
-  
+
 <a href="https://github.com/googlefonts/dm-fonts">DM Serif</a>
 
 <a href="https://github.com/adobe-fonts/source-serif">Source Serif</a>
