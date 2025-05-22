@@ -1,8 +1,7 @@
 <h1>Jellyfin Design</h1>
-<h4>Part of the <a href="https://jellyfin.org">Jellyfin Project</a></h3>
 
 <p>
-This repository includes design elements that are shared across all Jellyfin projects.
+This repository includes design elements that are shared across all <a href="https://jellyfin.org">Jellyfin projects</a>.
 </p>
 
 <h3>Logos</h3>
