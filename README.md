@@ -8,13 +8,12 @@ This repository includes design elements that are shared across all Jellyfin pro
 <h4>Logos</h4>
 
 <h4>Fonts</h4>
-<a href="https://github.com/erikdkennedy/figtree">Figtree</a>
+- <a href="https://github.com/erikdkennedy/figtree">Figtree</a>
+- <a href="https://github.com/googlefonts/dm-fonts">DM Serif</a>
 
-<a href="https://github.com/googlefonts/dm-fonts">DM Serif</a>
+- <a href="https://github.com/adobe-fonts/source-serif">Source Serif</a>
 
-<a href="https://github.com/adobe-fonts/source-serif">Source Serif</a>
-
-<a href="https://github.com/googlefonts/dm-mono">DM Mono</a>
+- <a href="https://github.com/googlefonts/dm-mono">DM Mono</a>
 
 <h4>Icons</h4>
 <a href="https://github.com/Richard9394/MingCute">MingCute</a>
