@@ -4,10 +4,11 @@ This repository includes design elements that are shared across all [Jellyfin pr
 
 ### Logos
 
-![](/logos/)
-![](/logos/)
-![](/logos/)
-![](/logos/)
+![horizontal on dark](/logos/PNG_background/Jellyfin_horizontal_on_dark.png)
+![horizontal on light](/logos/PNG_background/Jellyfin_horizontal_on_light.png)
+
+![icon on dark](/logos/PNG_background/Jellyfin_icon_on_dark.png)
+![icon on light](/logos/PNG_background/Jellyfin_icon_on_light.png)
 
 ### Fonts
 
