@@ -1,14 +1,14 @@
-# Jellyfin Design
+# Jellyfin UX
 
 This repository includes design elements that are shared across all [Jellyfin projects](https://jellyfin.org).
 
 ### Logos
 
-![horizontal on dark](/logos/PNG-background/jellyfin-horizontal-on-dark.png)
-![horizontal on light](/logos/PNG-background/jellyfin-horizontal-on-light.png)
+![horizontal on dark](/logos/PNG-background/jellyfin-flat--horizontal--on-dark.png)
+![horizontal on light](/logos/PNG-background/jellyfin-flat--horizontal--on-light.png)
 
-![icon on dark](/logos/PNG-background/jellyfin-icon-on-dark.png)
-![icon on light](/logos/PNG-background/jellyfin-icon-on-light.png)
+![icon on dark](/logos/PNG-background/jellyfin-flat--icon--on-dark.png)
+![icon on light](/logos/PNG-background/jellyfin-flat--icon--on-light.png)
 
 ### Fonts
 
