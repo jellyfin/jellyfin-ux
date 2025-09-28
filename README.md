@@ -21,7 +21,7 @@ UX elements for Jellyfin, including logos, fonts, and other elements shared acro
 
 [DM Serif](https://github.com/googlefonts/dm-fonts)
 
-[Source Serif](https://github.com/adobe-fonts/source-serif)
+~[Source Serif](https://github.com/adobe-fonts/source-serif)~
 
 [DM Mono](https://github.com/googlefonts/dm-mono)
 
