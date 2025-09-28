@@ -1,14 +1,20 @@
-# Jellyfin UX
+<h1 align="center">Jellyfin UX</h1>
+<h3 align="center">Part of the <a href="https://jellyfin.org">Jellyfin Project</a></h3>
 
-This repository includes design elements that are shared across all [Jellyfin projects](https://jellyfin.org).
+<p align="center">
+UX elements for Jellyfin, including logos, fonts, and other elements shared across all projects.
+</p>
 
+---
+
+<p align="center">
 ### Logos
 
-![horizontal on dark](/logos/PNG-background/jellyfin-flat--horizontal--on-dark.png)
-![horizontal on light](/logos/PNG-background/jellyfin-flat--horizontal--on-light.png)
+![horizontal on dark](/logos/PNG-background/jellyfin-color--horizontal--on-dark.png)
+![horizontal on light](/logos/PNG-background/jellyfin-color--horizontal--on-light.png)
 
-![icon on dark](/logos/PNG-background/jellyfin-flat--icon--on-dark.png)
-![icon on light](/logos/PNG-background/jellyfin-flat--icon--on-light.png)
+![icon on dark](/logos/PNG-background/jellyfin-color--icon--on-dark.png)
+![icon on light](/logos/PNG-background/jellyfin-color--icon--on-light.png)
 
 ### Fonts
 
@@ -26,3 +32,4 @@ This repository includes design elements that are shared across all [Jellyfin pr
 
 ---
 Please consult our [branding guide](https://docs.jellyfin.org/general/contributing/branding.html) on using these assets.
+</p>
