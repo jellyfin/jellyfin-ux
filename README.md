@@ -7,7 +7,6 @@ UX elements for Jellyfin, including logos, fonts, and other elements shared acro
 
 ---
 
-<p align="center">
 ### Logos
 
 ![horizontal on dark](/logos/PNG-background/jellyfin-color--horizontal--on-dark.png)
@@ -32,4 +31,3 @@ UX elements for Jellyfin, including logos, fonts, and other elements shared acro
 
 ---
 Please consult our [branding guide](https://docs.jellyfin.org/general/contributing/branding.html) on using these assets.
-</p>
