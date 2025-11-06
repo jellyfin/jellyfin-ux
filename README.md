@@ -7,13 +7,13 @@ UX elements for Jellyfin, including logos, fonts, and other elements shared acro
 
 ---
 
-### Logos
+<h3>Logos</h3>
 
-![horizontal on dark](/logos/PNG-background-space/jellyfin-horizontal--color-on-dark.png)
-![horizontal on light](/logos/PNG-background-space/jellyfin-horizontal--color-on-light.png)
+<img src="/logos/PNG-background-space/jellyfin-horizontal--color-on-dark.png">
+<img src="/logos/PNG-background-space/jellyfin-horizontal--color-on-light.png">
 
-![icon on dark](/logos/PNG-background-space/jellyfin-icon--color-on-dark.png)
-![icon on light](/logos/PNG-background-space/jellyfin-icon--color-on-light.png)
+<img src="/logos/PNG-background-space/jellyfin-icon--color-on-dark.png">
+<img src="/logos/PNG-background-space/jellyfin-icon--color-on-light.png">
 
 ---
 <p align="center">
