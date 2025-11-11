@@ -14,7 +14,7 @@ UX elements for Jellyfin, including logos, fonts, and other elements shared acro
 
 ```
 .
-├── branding                      # All images used for branding.
+├── branding                      # All images used for branding. 🧹
 │   ├── SVG                       # Random assets linked to from too many places. ❌
 │   ├── NSIS                      # Graphics used in the Windows installer.
 │   ├── android                   # All visuals used for Android apps.
