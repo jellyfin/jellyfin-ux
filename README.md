@@ -15,26 +15,25 @@ UX elements for Jellyfin, including logos, fonts, and other elements shared acro
 ```
 .
 ├── branding                      # All images used for branding.
-│   ├── apps                      # Graphics used in apps.
-│   │   ├── android               # All visuals used for Android apps.
-│   │   │   ├── mobile            # Graphics for the android mobile app.
-│   │   │   │   ├── app           # Visual assets used in the app.
-│   │   │   │   └── fastlane      # Images for the store listing.
-│   │   │   └── tv                # Graphics for the android tv app.
-│   │   │       ├── app           # Visual assets used in the app.
-│   │   │       └── fastlane      # Images for the store listing.
-│   │   ├── ios                   # All visuals used for iOS apps.
-│   │   ├── NSIS                  # Graphics used in the Windows installer.
-│   │   ├── roku                  # Graphics used in the Roku app.
-│   │   ├── tizen                 # All visuals used for the Tizen app.
-│   │   └── web                   # Graphics for the web app.
-│   │       └── favicons
-│   ├── socials                   # Graphics for social media.
-│   │   ├── reddit                # Graphics for the subreddit.
-│   │   └── ...
 │   ├── SVG                       # Random assets linked to from too many places. ❌
-│   └── website                   # Graphics on the website.
-│       └── docs                  # Graphics used in the documentation.
+│   ├── NSIS                      # Graphics used in the Windows installer.
+│   ├── android                   # All visuals used for Android apps.
+│   │   ├── mobile                # Graphics for the android mobile app.
+│   │   │   ├── app               # Visual assets used in the app.
+│   │   │   └── fastlane          # Images for the store listing.
+│   │   └── tv                    # Graphics for the android tv app.
+│   │       ├── app               # Visual assets used in the app.
+│   │       └── fastlane          # Images for the store listing.
+│   ├── ios                       # All visuals used for iOS apps.
+│   ├── roku                      # Graphics used in the Roku app.
+│   ├── tizen                     # All visuals used for the Tizen app.
+│   ├── web                       # Graphics for the web app.
+│   │   └── favicons
+│   ├── website                   # Graphics on the website.
+│   │   └── docs                  # Graphics used in the documentation.
+│   └── socials                   # Graphics for social media.
+│       ├── reddit                # Graphics for the subreddit.
+│       └── ...
 ├── logos                         # Jellyfin logos in various formats.
 │   ├── PNG
 │   ├── SVG
