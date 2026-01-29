@@ -26,6 +26,7 @@ UX elements for Jellyfin, including logos, fonts, and other elements shared acro
 │   │       └── fastlane        # Images for the store listing.
 │   ├── ios                     # All visuals used for iOS apps.
 │   ├── reddit                  # Graphics for the subreddit.
+│   ├── roku                    # All visuals used for the Roku app.
 │   ├── tizen                   # All visuals used for the Tizen app.
 │   └── web                     # Graphics for the web app.
 │       └── favicons
